@@ -5,13 +5,13 @@
 
 <br>
 
-<!-- Typing Animation — gold color, serif-adjacent -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1000&color=C9A96E&center=true&vCenter=true&width=550&height=40&lines=shipping+ml+models+into+production;building+full-stack+ai+applications;turning+data+into+decisions;open+to+new+opportunities" alt="Typing SVG" /></a>
 
 <br>
 
-<!-- Social — muted, understated -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a18?style=flat&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/huzaif-khan)
+<!-- Social -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a18?style=flat&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/YOUR-LINKEDIN)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-1a1a18?style=flat&logo=gmail&logoColor=C9A96E)](mailto:huzaiffkhhan@gmail.com)
 &nbsp;&nbsp;
@@ -21,8 +21,7 @@
 
 <br>
 
-<!-- ABOUT -->
-## ◆ &nbsp; About
+## About
 
 ```python
 class HuzaifKhan:
@@ -41,7 +40,7 @@ class HuzaifKhan:
 
 <br>
 
-## ◆ &nbsp; Tech Stack
+## Tech Stack
 
 <div align="center">
 <table>
@@ -102,7 +101,7 @@ class HuzaifKhan:
 
 <br>
 
-## ◆ &nbsp; Featured Work
+## Featured Work
 
 <div align="center">
 <table>
@@ -117,7 +116,7 @@ class HuzaifKhan:
 <p align="center">NLP pipeline that predicts cancer from clinical text using deep learning</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-1a1a18?style=flat-square&logo=python&logoColor=C9A96E"/>
-<img src="https://img.shields.io/badge/NLP-1a1a18?style=flat-square&logoColor=C9A96E"/>
+<img src="https://img.shields.io/badge/NLP-1a1a18?style=flat-square"/>
 <img src="https://img.shields.io/badge/Deep_Learning-1a1a18?style=flat-square"/>
 </p>
 </td>
@@ -201,32 +200,13 @@ class HuzaifKhan:
 
 <br>
 
-## ◆ &nbsp; Statistics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Huzzzaif&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a08&title_color=C9A96E&icon_color=D4AF37&text_color=A09880&ring_color=C9A96E" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzzzaif&layout=compact&hide_border=true&bg_color=0a0a08&title_color=C9A96E&text_color=A09880&langs_count=8" height="180" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzzzaif&hide_border=true&background=0a0a08&stroke=2a2a25&ring=D4AF37&fire=D4AF37&currStreakLabel=C9A96E&sideLabels=A09880&currStreakNum=C9A96E&sideNums=A09880&dates=6B6355" width="55%" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzzzaif&hide_border=true&bg_color=0a0a08&color=C9A96E&line=D4AF37&point=F5E6C8&area=true&area_color=2a2a20" width="95%" />
-</div>
-
-<br>
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Huzzzaif&color=C9A96E&style=flat-square&label=PROFILE+VIEWS)
 
 <br>
 
-<sub>◆ &nbsp; Open to opportunities — <a href="mailto:huzaiffkhhan@gmail.com">let's connect</a> &nbsp; ◆</sub>
+<sub>Open to opportunities — <a href="mailto:huzaiffkhhan@gmail.com">let's connect</a></sub>
 
 </div>
 
