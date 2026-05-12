@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Huzaif%20Khan&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-### I build end-to-end products — from model to UI.
+### I build end-to-end products from model to UI.
 
 Currently looking for roles where I can ship intelligent software that solves real problems.
 
