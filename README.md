@@ -83,7 +83,7 @@
 
   <!-- Tagline -->
   <text x="450" y="175" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#6e7681" letter-spacing="1">
-    BUILDING INTELLIGENT SOFTWARE — FROM MODEL TO PIXEL
+    BUILDING INTELLIGENT SOFTWARE FROM MODEL TO PIXEL
   </text>
 
   <!-- Bottom accent -->
