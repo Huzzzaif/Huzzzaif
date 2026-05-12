@@ -22,7 +22,6 @@ Currently looking for roles where I can ship intelligent software that solves re
 | [**nlp-cancer-prediction**](https://github.com/Huzzzaif/nlp-cancer-prediction) | NLP pipeline for cancer prediction from clinical text |
 | [**medical_pred_frontend**](https://github.com/Huzzzaif/medical_pred_frontend) | Frontend for a medical prediction ML model |
 | [**finance_bot**](https://github.com/Huzzzaif/finance_bot) | AI-powered financial assistant bot |
-| [**AI-Powered-Virtual-Assistant**](https://github.com/Huzzzaif/AI-Powered-Virtual-Assistant) | Virtual assistant using AI/NLP |
 | [**zkp-blockchain-llm-sim**](https://github.com/Huzzzaif/zkp-blockchain-llm-sim) | Zero-knowledge proof blockchain simulation with LLM integration |
 | [**see_the_tone**](https://github.com/Huzzzaif/see_the_tone) | Sentiment/tone analysis tool |
 
