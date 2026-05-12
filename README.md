@@ -11,7 +11,7 @@
 <br>
 
 <!-- Social — muted, understated -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a18?style=flat&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a18?style=flat&logo=linkedin&logoColor=C9A96E)](https://linkedin.com/in/huzaif-khan)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-1a1a18?style=flat&logo=gmail&logoColor=C9A96E)](mailto:huzaiffkhhan@gmail.com)
 &nbsp;&nbsp;
