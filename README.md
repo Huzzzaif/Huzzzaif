@@ -6,7 +6,7 @@
 <br>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1000&color=C9A96E&center=true&vCenter=true&width=550&height=40&lines=shipping+ml+models+into+production;building+full-stack+ai+applications;6+peer-reviewed+publications;open+to+new+opportunities" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&pause=1000&color=C9A96E&center=true&vCenter=true&width=550&height=40&lines=Shipping+ML+models+into+production;Building+full-stack+AL+applications;6+peer-reviewed+publications;Open+to+new+opportunities" alt="Typing SVG" /></a>
 
 <br>
 
@@ -18,6 +18,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a18?style=flat&logo=github&logoColor=C9A96E)](https://github.com/Huzzzaif)
 &nbsp;&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Scholar-1a1a18?style=flat&logo=googlescholar&logoColor=C9A96E)](https://scholar.google.com/citations?user=M0gjnP4AAAAJ)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a18?style=flat&logo=vercel&logoColor=C9A96E)](https://huzaif-ai.vercel.app)
 
 </div>
 
