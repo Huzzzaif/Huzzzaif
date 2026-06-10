@@ -231,36 +231,6 @@ class HuzaifKhan:
 </p>
 </td>
 </tr>
-<tr>
-<td width="50%">
-<h3 align="center">🎭 See The Tone</h3>
-<p align="center">
-<a href="https://github.com/Huzzzaif/see_the_tone">
-<img src="https://img.shields.io/badge/VIEW_REPO-1a1a18?style=for-the-badge&logo=github&logoColor=C9A96E"/>
-</a>
-</p>
-<p align="center">Real-time sentiment & tone analysis powered by NLP</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-1a1a18?style=flat-square&logo=python&logoColor=C9A96E"/>
-<img src="https://img.shields.io/badge/NLP-1a1a18?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sentiment-1a1a18?style=flat-square"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">📊 GPU Market Terminal</h3>
-<p align="center">
-<a href="https://gpu-cost-tracker--huzaiffkhhan.replit.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-1a1a18?style=for-the-badge&logo=replit&logoColor=C9A96E"/>
-</a>
-</p>
-<p align="center">Real-time GPU spot pricing dashboard across cloud providers</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-1a1a18?style=flat-square&logo=react&logoColor=C9A96E"/>
-<img src="https://img.shields.io/badge/Dashboard-1a1a18?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud-1a1a18?style=flat-square"/>
-</p>
-</td>
-</tr>
 </table>
 </div>
 
