@@ -177,7 +177,7 @@ class HuzaifKhan:
 <td width="50%">
 <h3 align="center">🛡️ SenseCLLM</h3>
 <p align="center">
-<a href="https://github.com/Huzzzaif/sensecllm-edge">
+<a href="https://github.com/Huzzzaif/selencllm_edge">
 <img src="https://img.shields.io/badge/VIEW_REPO-1a1a18?style=for-the-badge&logo=github&logoColor=C9A96E"/>
 </a>
 &nbsp;
