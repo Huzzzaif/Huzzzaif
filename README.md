@@ -171,8 +171,6 @@ class HuzaifKhan:
 
 ## Featured Work
 
-## Featured Work
-
 <div align="center">
 <table>
 <tr>
