@@ -171,10 +171,12 @@ class HuzaifKhan:
 
 ## Featured Work
 
+## Featured Work
+
 <div align="center">
 <table>
 <tr>
-    <td width="50%">
+<td width="50%">
 <h3 align="center">🛡️ SenseCLLM</h3>
 <p align="center">
 <a href="https://github.com/Huzzzaif/sensecllm-edge">
@@ -191,6 +193,22 @@ class HuzaifKhan:
 </p>
 </td>
 <td width="50%">
+<h3 align="center">🔐 ZKP Blockchain × LLM</h3>
+<p align="center">
+<a href="https://github.com/Huzzzaif/zkp-blockchain-llm-sim">
+<img src="https://img.shields.io/badge/VIEW_REPO-1a1a18?style=for-the-badge&logo=github&logoColor=C9A96E"/>
+</a>
+</p>
+<p align="center">Zero-knowledge proof blockchain simulation with LLM integration</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Blockchain-1a1a18?style=flat-square"/>
+<img src="https://img.shields.io/badge/ZKP-1a1a18?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-1a1a18?style=flat-square"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <h3 align="center">🧬 NLP Cancer Prediction</h3>
 <p align="center">
 <a href="https://github.com/Huzzzaif/nlp-cancer-prediction">
@@ -205,22 +223,6 @@ class HuzaifKhan:
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🏥 Medical Prediction App</h3>
-<p align="center">
-<a href="https://github.com/Huzzzaif/medical_pred_frontend">
-<img src="https://img.shields.io/badge/VIEW_REPO-1a1a18?style=for-the-badge&logo=github&logoColor=C9A96E"/>
-</a>
-</p>
-<p align="center">Full-stack React app serving a trained ML model for medical predictions</p>
-<p align="center">
-<img src="https://img.shields.io/badge/React-1a1a18?style=flat-square&logo=react&logoColor=C9A96E"/>
-<img src="https://img.shields.io/badge/ML-1a1a18?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full_Stack-1a1a18?style=flat-square"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
 <h3 align="center">💰 Finance Bot</h3>
 <p align="center">
 <a href="https://github.com/Huzzzaif/finance_bot">
@@ -232,20 +234,6 @@ class HuzaifKhan:
 <img src="https://img.shields.io/badge/Python-1a1a18?style=flat-square&logo=python&logoColor=C9A96E"/>
 <img src="https://img.shields.io/badge/LLM-1a1a18?style=flat-square"/>
 <img src="https://img.shields.io/badge/FinTech-1a1a18?style=flat-square"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🔐 ZKP Blockchain × LLM</h3>
-<p align="center">
-<a href="https://github.com/Huzzzaif/zkp-blockchain-llm-sim">
-<img src="https://img.shields.io/badge/VIEW_REPO-1a1a18?style=for-the-badge&logo=github&logoColor=C9A96E"/>
-</a>
-</p>
-<p align="center">Zero-knowledge proof blockchain simulation with LLM integration</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Blockchain-1a1a18?style=flat-square"/>
-<img src="https://img.shields.io/badge/ZKP-1a1a18?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM-1a1a18?style=flat-square"/>
 </p>
 </td>
 </tr>
