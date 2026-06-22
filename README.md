@@ -55,6 +55,8 @@ class HuzaifKhan:
 <td>📄</td>
 <td><b>SenseCLLM: A Three-Agent Edge-Resident Framework for Privacy-Preserving PII Detection</b><br><sub>H. Khan, A. Jalooli · <i>IEEE AIIoT 2026</i> · <b>Accepted</b></sub></td>
 <td>📄</td>
+</tr>
+<tr>
 <td><b>End-to-End Privacy-Aware Federated Learning for Wearable Health Devices via Encrypted Aggregation in Programmable Networks</b><br><sub>H. Khan, R. Kavati, S.S. Pulkaram, A. Jalooli · <i>Sensors</i>, 2025 · <b>7 citations</b></sub></td>
 </tr>
 <tr>
