@@ -53,6 +53,8 @@ class HuzaifKhan:
 <table>
 <tr>
 <td>📄</td>
+<td><b>SenseCLLM: A Three-Agent Edge-Resident Framework for Privacy-Preserving PII Detection</b><br><sub>H. Khan, A. Jalooli · <i>IEEE AIIoT 2026</i> · <b>Accepted</b></sub></td>
+<td>📄</td>
 <td><b>End-to-End Privacy-Aware Federated Learning for Wearable Health Devices via Encrypted Aggregation in Programmable Networks</b><br><sub>H. Khan, R. Kavati, S.S. Pulkaram, A. Jalooli · <i>Sensors</i>, 2025 · <b>7 citations</b></sub></td>
 </tr>
 <tr>
@@ -172,6 +174,22 @@ class HuzaifKhan:
 <div align="center">
 <table>
 <tr>
+    <td width="50%">
+<h3 align="center">🛡️ SenseCLLM</h3>
+<p align="center">
+<a href="https://github.com/Huzzzaif/sensecllm-edge">
+<img src="https://img.shields.io/badge/VIEW_REPO-1a1a18?style=for-the-badge&logo=github&logoColor=C9A96E"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/IEEE_AIIoT_2026-1a1a18?style=for-the-badge&logoColor=C9A96E"/>
+</p>
+<p align="center">Three-agent, edge-resident framework for on-device PII detection — privacy-preserving LLM inference without cloud exposure</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-1a1a18?style=flat-square&logo=python&logoColor=C9A96E"/>
+<img src="https://img.shields.io/badge/Edge_LLM-1a1a18?style=flat-square"/>
+<img src="https://img.shields.io/badge/Privacy-1a1a18?style=flat-square"/>
+</p>
+</td>
 <td width="50%">
 <h3 align="center">🧬 NLP Cancer Prediction</h3>
 <p align="center">
